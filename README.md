@@ -2,4 +2,4 @@
 Second repo of the playground
 
 
-just sally!
+just sally! but fr
